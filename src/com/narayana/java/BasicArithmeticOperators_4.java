@@ -11,7 +11,6 @@ public class BasicArithmeticOperators_4
       Scanner s = new Scanner(System.in);
       i = s.nextInt();
       j = s.nextInt();
-
       System.out.println("i+j");
       System.out.println(i+j);
       System.out.println(i*j);

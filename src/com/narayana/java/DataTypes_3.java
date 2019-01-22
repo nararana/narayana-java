@@ -14,7 +14,6 @@ public class DataTypes_3
       long l; // 64 bits
       double d; // 64 bits
 
-
       // integer datatypes, thrdr can hold only integer values with includes negative
       byte b_1 = 1;
       int i_1 = 12;
