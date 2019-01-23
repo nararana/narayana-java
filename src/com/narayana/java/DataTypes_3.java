@@ -13,13 +13,11 @@ public class DataTypes_3
       int a = 6; // 32 bits
       long l; // 64 bits
       double d; // 64 bits
-
       // integer datatypes, thrdr can hold only integer values with includes negative
       byte b_1 = 1;
       int i_1 = 12;
       short s_1 = 60;
       long l_1 = 896;
-
       // Decimal/float datatypes
       float f_1 = (float) 9.56; //type casting because it treats the constant as a double value.//
       double d_1 = 986;
