@@ -6,7 +6,6 @@ public class BasicArithmeticOperators_4
 {
    public static void main(String args[])
    {
-
       int i;
       int j;
       Scanner s = new Scanner(System.in);
