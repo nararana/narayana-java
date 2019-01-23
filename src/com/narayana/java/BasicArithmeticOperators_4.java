@@ -17,6 +17,6 @@ public class BasicArithmeticOperators_4
       System.out.println(i*j);
       System.out.println(i/(j*1.0));
       System.out.println(i-j);
-      System.out.println(i%j);
+      System.err.println(i%j);
    }
 }
